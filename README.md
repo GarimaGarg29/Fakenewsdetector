@@ -1,3 +1,2 @@
-# fake_news_classifier
-fake news classifier using nlp
+# fake news classifier using Natural Language Processing
 Machine Learning Algorithms used are Multinomial Naive Bayes and Passive Aggressive Classifier Algorithm 
